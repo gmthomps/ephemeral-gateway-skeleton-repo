@@ -25,8 +25,8 @@ version = '1.0.0'
 
 GatewayConnection {
     url = 'https://test.broadcom.com:8443/restman'
-    userName= 'admin'
-    userPass= '7layer'
+    userName = 'admin'
+    userPass = '7layer'
 }
 
 GatewayExportConfig {
