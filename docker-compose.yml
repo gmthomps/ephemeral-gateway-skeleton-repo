@@ -20,7 +20,7 @@ services:
     environment:
       ACCEPT_LICENSE: "true"
       SSG_ADMIN_USERNAME: "admin"
-      SSG_ADMIN_PASSWORD: "password"
+      SSG_ADMIN_PASSWORD: "7layer"
       ENV.CONTEXT_VARIABLE_PROPERTY.influxdb.influxdb: "influxdb.url"
       ENV.CONTEXT_VARIABLE_PROPERTY.influxdb.tags: "env=dev"
 secrets:
