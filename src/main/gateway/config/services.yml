@@ -1,0 +1,10 @@
+CICD/CICD Policy:
+  url: "/cicd"
+  policy: "CICD/CICD Policy"
+  httpMethods:
+  - "DELETE"
+  - "POST"
+  - "GET"
+  - "PUT"
+  properties: {}
+  wssProcessingEnabled: false
